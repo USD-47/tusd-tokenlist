@@ -1,0 +1,20 @@
+{
+  "name": "Tetra USD List",
+  "timestamp": "2026-04-07T10:58:57+00:00",
+  ,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
+      "name": "Tetra USD",
+      "symbol": "tUSD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/USD-47/tusd-tokenlist/main/assets/blockchains/smartchain/assets/0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A/logo.png"
+    }
+  ]
+}
