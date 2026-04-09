@@ -1,0 +1,11 @@
+{
+  "name": "Tetra USD",
+  "website": "https://github.com/USD-47/tusd-tokenlist",
+  "description": "Tetra USD (tUSD) official token on BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0xba7D43Ac6D390aDaE143F4f68377a2a5B10EA046",
+  "type": "BEP20",
+  "symbol": "tUSD",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xba7D43Ac6D390aDaE143F4f68377a2a5B10EA046"
+}
