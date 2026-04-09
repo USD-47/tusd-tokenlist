@@ -9,11 +9,11 @@
   "tokens": [
     {
       "chainId": 56,
-      "address": "0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A",
+      "address": "0xba7D43Ac6D390aDaE143F4f68377a2a5B10EA046",
       "name": "Tetra USD",
       "symbol": "tUSD",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/USD-47/tusd-tokenlist/main/assets/blockchains/smartchain/assets/0x16724EB3Ae106C94915D875B93e05DBC0B7FB34A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/USD-47/tusd-tokenlist/main/assets/blockchains/smartchain/assets/0xba7D43Ac6D390aDaE143F4f68377a2a5B10EA046/logo.png"
     }
   ]
 }
